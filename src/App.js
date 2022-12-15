@@ -1,13 +1,11 @@
 import React from 'react'
-import SearchBar from './SearchBar'
-import dataUser from './Data.json'
-import './App.css'
+import Assign from './Assign'
+
+
 function App() {
-  return (
-    <div className='App'>
-    <SearchBar/>
-    </div>
-  )
-}
+return <>
+<Assign/>
+</>
+} 
 
 export default App

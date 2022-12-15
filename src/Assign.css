@@ -1,0 +1,102 @@
+body{
+ background-color: grey
+}
+.container{
+    height: 60pc;
+    width: 500px;
+    background-color: whitesmoke;
+}
+
+#chead{
+    background-color: blue;
+    height: 90px;
+    width: 420px;
+    margin: 40px 25px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.chead-text{
+color: whitesmoke;
+font-size: 20px;
+margin: 18px auto;
+}
+
+.btn-book{
+    background: linear-gradient(90deg,rgb(226, 139, 39),rgb(231, 69, 69),rgb(185, 90, 185));
+    height:50px ;
+    width: 110px;
+    border-radius: 35px;
+    margin: 8px 5px;
+}
+
+#cbody{
+    background-color: rgb(233, 229, 229);
+    height:300px ;
+    width: 400px;
+    margin: 0 35px;
+}
+
+.btns-1{
+    height:40px ;
+    width: 80px;
+    border-radius: 35px;
+    margin: 8px 5px;
+    border: none;
+}
+
+.btn-cat{
+    background: linear-gradient(90deg,rgb(226, 139, 39),rgb(231, 69, 69),rgb(185, 90, 185));
+    height:40px ;
+    width: 80px;
+    border-radius: 35px;
+    border: none;
+    margin: 8px 5px;
+}
+
+.doctor-img{
+    border: 3px solid orange;
+    border-radius: 50px;
+    margin: 20px 0 0 10px;
+}
+
+.apmnt-details{
+    margin: 20px 10px;
+}
+
+.note{
+    color: orange;
+    font-size: 18px;
+}
+
+.btns-2{
+    background: linear-gradient(90deg,rgb(156, 63, 156),blue);
+    color: white;
+    height:35px ;
+    width: 120px;
+    border-radius: 35px;
+    border: none;
+    margin:20px 8px;
+}
+
+.btn-view{
+    height:35px ;
+    width: 120px;
+    border-radius: 35px;
+    border: none;
+    margin: 20px 8px;
+}
+
+.eye-icon{
+    margin: 0 5px;
+}
+
+.btn-back{
+    height: 60px;
+    width: 420px;
+    border-radius: 50px;
+    margin: 25px 25px;
+    border: 1px solid rgb(146, 139, 139);
+    box-shadow: 7px 7px 7px rgb(97, 92, 92);
+}
