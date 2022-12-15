@@ -2,6 +2,7 @@ body{
  background-color: grey
 }
 .container{
+    margin: 200px 0;
     height: 60pc;
     width: 500px;
     background-color: whitesmoke;
