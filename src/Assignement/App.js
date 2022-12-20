@@ -1,11 +1,11 @@
 import React from 'react'
-import Search from './Search'
+import Search from './Assign'
 
 
 
 function App() {
 return <>
-<Search/>
+<Assign/>
 </>
 } 
 
